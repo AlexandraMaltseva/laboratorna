@@ -8,6 +8,6 @@ int main(void)
    scanf("%d%d", &a, &b);
    printf("a+b=%d\n", a+b, a, b);
    printf("a-b=%d\n", a-b, a, b);
-   printf("a*b=%d", a*b, a, b);
+   printf("a/b=%d", a/b, a, b);
 
 }
