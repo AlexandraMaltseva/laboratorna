@@ -1,4 +1,4 @@
-
+//учебная программа
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
@@ -8,5 +8,6 @@ int main(void)
    scanf("%d%d", &a, &b);
    printf("a+b=%d\n", a+b, a, b);
    printf("a-b=%d\n", a-b, a, b);
+   printf("a*b=%d", a*b, a, b);
 
 }
