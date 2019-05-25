@@ -3,6 +3,8 @@
 #include <stdlib.h>
 int main(void)
 {
-
+    int a, b, c;
+   printf("Enter 2 numbers\n");
+   scanf("%d%d", &a, &b);
 
 }
